@@ -17,7 +17,7 @@ export default function Header() {
           text="View prompt"
         />
         <ExternalLink
-          href="https://github.com/tommydreamer57/solace-technical-project"
+          href="https://tommydreamer57.github.io/solace-technical-challenge/"
           text="View code"
         />
       </div>
