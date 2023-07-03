@@ -3,6 +3,8 @@
 
 ##### By Thomas Lowry
 
+This project is hosted at [https://tommydreamer57.github.io/solace-technical-challenge/](https://tommydreamer57.github.io/solace-technical-challenge/)
+
 
 
 ## Stack
