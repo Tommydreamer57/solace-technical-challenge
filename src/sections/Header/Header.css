@@ -1,0 +1,45 @@
+
+.Header {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.Header > * + * {
+  margin-top: 3.75rem;
+}
+
+.Header-title {
+  font-size: 3.25rem;
+  font-weight: bold;
+}
+
+.Header-subtitle {
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.Header-link-group {
+  border: 1px solid #61dafb;
+}
+
+.Header-link-group .ExternalLink {
+  display: inline-block;
+  opacity: 0.75;
+  padding: 0.5rem 1rem;
+}
+
+.Header-link-group .ExternalLink + .ExternalLink {
+  border-left: 1px solid #61dafb;
+}
+
+.Header-scroll-indicator {
+  opacity: 0.5;
+  position: absolute;
+  bottom: 3rem;
+}

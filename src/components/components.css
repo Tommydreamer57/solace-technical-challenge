@@ -1,0 +1,38 @@
+.ExternalLink {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.Note {
+  width: 100%;
+  font-size: 1rem;
+  display: flex;
+
+}
+
+.Note-content {
+  width: 100%;
+  border: 3px solid #ddd;
+  padding: 1rem 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Note-edit-input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+}
+
+.Note-button {
+  border: 3px solid #ddd;
+  border-left: none;
+  background-color: transparent;
+  padding: 1rem 0.5rem;
+}
+
+.Note-button:hover {
+  background: #ddd;
+}
