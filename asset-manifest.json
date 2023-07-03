@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solace-challenge/static/css/main.76d33f1a.css",
+    "main.js": "/solace-challenge/static/js/main.4b850c0f.js",
+    "static/js/787.0b0f87e9.chunk.js": "/solace-challenge/static/js/787.0b0f87e9.chunk.js",
+    "index.html": "/solace-challenge/index.html",
+    "main.76d33f1a.css.map": "/solace-challenge/static/css/main.76d33f1a.css.map",
+    "main.4b850c0f.js.map": "/solace-challenge/static/js/main.4b850c0f.js.map",
+    "787.0b0f87e9.chunk.js.map": "/solace-challenge/static/js/787.0b0f87e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d33f1a.css",
+    "static/js/main.4b850c0f.js"
+  ]
+}
